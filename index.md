@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "World,Hello";
 ```
+- [x] List syntax
+- [x] Complete
+- [ ] Not Complete
